@@ -213,6 +213,7 @@
 
 #define PAIR    1
 
+extern bool conn; //New line
 class BluetoothService;
 
 /**
